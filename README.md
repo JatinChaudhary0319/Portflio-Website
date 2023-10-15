@@ -1,7 +1,7 @@
 <h1 align="center">Portfolio Website</h1> 
 
 ## About Project:
-A landing page using HTML and CSS for completion of task 2 at Oasis Infobyte Internship.
+A portfolio website using HTML and CSS for completion of task 2 at Oasis Infobyte Internship.
 
 
 ## Screenshot On Going Live
